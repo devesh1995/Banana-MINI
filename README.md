@@ -56,7 +56,7 @@ On Windows, if you need to you can install the WinUSB driver over the WCH interf
 To upload the firmware, you need to ensure that the development board is not power on (with another power source). Then, you should make the following connections to the WCH-LinkE:
 
 ```
-WCH-LinkE     GameConsole
+WCH-LinkE    Development Board
 +-------+      +-------+
 |  SWDIO| <--> |DIO    |
 |    GND| ---> |GND    |
